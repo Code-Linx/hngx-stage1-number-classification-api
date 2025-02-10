@@ -55,7 +55,7 @@ GET /api/v1/classify-number?number=371
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/Code-Linx/number-classification-api.git
+git clone https://github.com/Code-Linx/hngx-stage1-number-classification-api
 cd number-classification-api
 ```
 
